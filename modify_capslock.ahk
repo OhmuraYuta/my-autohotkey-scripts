@@ -1,5 +1,5 @@
 ; CapsLockでIMEを直接オン/オフする
-*CapsLock::
+CapsLock::
 {
     Send("# ") ; # は Windowsキー、スペースはそのままスペースキーを指します
     return
